@@ -1,3 +1,3 @@
 # palindromic
 # execute programe
-node .
+> node .
